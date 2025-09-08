@@ -1,1 +1,1 @@
-I am making this so I could learn about how machine learning works, which I work on all types of exercises.
+I'm working of this so I can learn and understand how machine learning is used by using the exercises from the lectures.
